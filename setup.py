@@ -12,13 +12,13 @@ extras = {
 }
 
 setup(
-    name='gs1',
+    name='gsone',
     use_scm_version=True,
     description="GS1 Barcode helpers",
     long_description=readme,
     author="Versada (Andrius Laukavičius)",
     author_email='andrius.laukavicius@versada.eu',
-    url="https://github.com/versada/gs1",
+    url="https://github.com/versada/gsone",
     license='LGPLv3',
     packages=find_packages(),
     tests_require=test_deps,
